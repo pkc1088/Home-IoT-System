@@ -165,5 +165,5 @@ STM32 보드를 이용한 Home IoT System
     - 즉 인터럽트 핸들러가 실행되었지만 반영이 되지 않는 코드가 된다.
     - 따라서 안전한 데이터 처리와 원치 않는 동작을 방지하기 위해 시스템 제어 모드의 분기절은 원자성이 보장되도록 설정했다. 
 
-# 7. 참고자료
+# 8. 참고자료
 - [1] STM32F101xx, STM32F102xx, and STM32F105xx STM32F103xx. "STM32F107xx advanced ARM-based 32-bit MCUs." Reference manual. STMicroelectronics (2010).(https://www.st.com/resource/en/reference_manual/cd00171190-stm32f101xx-stm32f102xx-stm32f103xx-stm32f105xx-and-stm32f107xx-advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf)
