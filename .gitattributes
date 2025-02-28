@@ -1,10 +1,10 @@
-Home-IoT-System/CoreSupport/** linguist-documentation=false
-Home-IoT-System/LCD_library/** linguist-documentation=false
-Home-IoT-System/Libraries/** linguist-documentation=false
-Home-IoT-System/user/inc/** linguist-documentation=false
+Home-IoT-System/CoreSupport/** linguist-documentation=true
+Home-IoT-System/LCD_library/** linguist-documentation=true
+Home-IoT-System/Libraries/** linguist-documentation=true
+Home-IoT-System/user/inc/** linguist-documentation=true
 
-Home-IoT-System/CoreSupport/** linguist-vendored=false
-Home-IoT-System/LCD_library/** linguist-vendored=false
-Home-IoT-System/Libraries/** linguist-vendored=false
-Home-IoT-System/user/inc/** linguist-vendored=false
+Home-IoT-System/CoreSupport/** linguist-vendored=true
+Home-IoT-System/LCD_library/** linguist-vendored=true
+Home-IoT-System/Libraries/** linguist-vendored=true
+Home-IoT-System/user/inc/** linguist-vendored=true
 
