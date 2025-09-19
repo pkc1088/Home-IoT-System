@@ -8,7 +8,7 @@ STM32 보드를 이용한 Home IoT System
   - STM32 보드를 이용한 Home IoT System <br/><br/>
 
 - **시연 url**
-  - 시연 url 업로드 <br/><br/>
+  - [시연 영상](https://www.youtube.com/shorts/YAEfBdfnC_g) <br/><br/>
 
 - **프로젝트 동기**
   - 스마트 홈 IoT 시스템의 설계와 구현 원리를 이해
